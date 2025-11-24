@@ -87,5 +87,5 @@ Um dieses Universum auf deinem lokalen Rechner zu starten:
 ---
 
 <p align="center">
-  Built with 💙 and 🌟 by Lamangy and AI
+  Built with 💙 and 🌟 by [Dein Name] and AI
 </p>
